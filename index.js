@@ -1,5 +1,5 @@
 // Write your code here!
-document.createElement('p', 'div', 'span')
+
 
 const main = document.querySelector("main");
 main.remove();
